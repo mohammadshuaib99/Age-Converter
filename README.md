@@ -1,2 +1,2 @@
 # Age-Calculator
-How to make age converter using HTML, CSS and Javascript
+How to make age calculator using HTML, CSS and Javascript
