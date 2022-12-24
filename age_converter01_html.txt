@@ -16,7 +16,7 @@
         <form>
             <div class="base">
                 <div class="enter">
-                    <h4>Age <span>Converter<span></h4>
+                    <h4>Age <span>Calculator<span></h4>
 
                 </div>
                 <div class="block">
